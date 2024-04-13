@@ -2,7 +2,7 @@
 This repository contains the java source code of a group project,
 aiming to implement *Garnier-Osguthorpe-Robson Method* [^Paper]. 
 
-![GOR I CB513](local:./GOR/results/testrun_1_SUMMARY_plot.scores_boxplot.png)
+![GOR I CB513](GOR/results/testrun_1_SUMMARY_plot.scores_boxplot.png)
 
 # Usage
 > [!NOTE]
