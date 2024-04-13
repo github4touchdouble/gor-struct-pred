@@ -2,6 +2,8 @@
 This repository contains the java source code of a group project,
 aiming to implement *Garnier-Osguthorpe-Robson Method* [^Paper]. 
 
+![GOR I CB513](local:./GOR/results/testrun_1_SUMMARY_plot.scores_boxplot.png)
+
 # Usage
 > [!NOTE]
 > It is recommended to checkout our cross validation repository (https://github.com/github4touchdouble/gor-cross-validation/tree/master) for easier usage.
