@@ -41,6 +41,7 @@ java -jar out/artifacts/trainPredict.jar
 --method gor3                                       # gor type [gor1| gor3 |gor4]
 --modelT models/testrun_1.mod                       # path t load model (needs to correspond to --model)
 --out predictions/testrun_1.prd                     # predictions out
+[--w 17]                                            # windowsize (default=17)
 ```
 
 ## evalGor.jar
