@@ -42,6 +42,7 @@ java -jar out/artifacts/trainPredict.jar
 --modelT models/testrun_1.mod                       # path t load model (needs to correspond to --model)
 --out predictions/testrun_1.prd                     # predictions out
 [--w 17]                                            # windowsize (default=17)
+[--probabilities]                                   # additionally display probabilities for each state (C|E|H) for each aa in the sequence
 ```
 
 ## evalGor.jar
